@@ -1,0 +1,7 @@
+#result{
+    display: none;
+    background-color: aliceblue; /*안에 색칠되는 메인 영역 배경*/
+    width: 80%; /*가로 80%*/
+    text-align: center;
+    border-radius: 20px;
+}
